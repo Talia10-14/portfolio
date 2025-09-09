@@ -82,9 +82,7 @@ const Header = () => {
                 {item.name}
               </button>
             ))}
-            <div className="px-6 pt-4">
-            
-            </div>
+           
           </div>
         )}
       </div>
