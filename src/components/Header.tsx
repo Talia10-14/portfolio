@@ -83,9 +83,7 @@ const Header = () => {
               </button>
             ))}
             <div className="px-6 pt-4">
-              <button className="w-full px-4 py-2 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-all duration-200 text-sm font-medium">
-                Embauchez-moi
-              </button>
+            
             </div>
           </div>
         )}
